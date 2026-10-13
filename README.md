@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Priyanka Thakare 👋
 
-<!--
-**priyanka-325/priyanka-325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Architecture Delivery Engineer | Specialist • Automotive Domain • Model Base Developer • Simulink & Stateflow • MIL, SIL Testing • Validation • dSpace System Desk
 
-Here are some ideas to get you started:
+I’m a **Model Base Developer having 7+ years of experience** building and deploying end-to-end applications automotive, BMCM, iRWS, tractor automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with **Software development, Matlab, Simulink, Stateflow, Autosar, dSPACE SystemDesk, MIL and SIL**
+
+I enjoy building responsive, secure, maintainable products and turning real-world requirements into production-ready software.
+
+## 🛠 Tech Stack
+
+`Software Architecture Delivery Engineer` `Specialist` `Automotive Domain` `Model Base Developer` `Simulink & Stateflow` `MIL, SIL Testing` `Validation` `dSpace System Desk` `Matlab` `Autosar` `Git`
+
+## 🚀 Featured Projects
+
+- 🤖 Schaeffler, John Deere, JLR, MBRD
+- 🔎 GitHub Repo Explorer
+- 💼 JobTracker
+- ♿ Assistive Technology Loan Library
+
+## 📫 Connect
+
+🌐 [Portfolio]()  
+💼 [LinkedIn](https://www.linkedin.com/in/priyanka-nand-thakare/?)  
+📧 [Email](mailto:thakare15priyanka@gmail.com)
+
+> Open to Software Architect and Model Base Developer opportunities.
