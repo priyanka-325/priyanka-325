@@ -14,7 +14,7 @@ I enjoy building responsive, secure, maintainable products and turning real-worl
 
 ## 🚀 Featured Projects
 
-- 🤖 Schaeffler, John Deere, JLR, MBRD
+- 🤖 John Deere, Schaeffler, JLR, MBRD
 - 🔎 GitHub Repo Explorer
 - 💼 JobTracker
 - ♿ Assistive Technology Loan Library
